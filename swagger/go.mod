@@ -6,7 +6,6 @@ toolchain go1.23.0
 
 require (
 	github.com/go-openapi/runtime v0.26.2
-	github.com/gofiber/fiber/v2 v2.52.5
 	github.com/gofiber/fiber/v3 v3.0.0-beta.3
 	github.com/stretchr/testify v1.9.0
 	gopkg.in/yaml.v2 v2.4.0
